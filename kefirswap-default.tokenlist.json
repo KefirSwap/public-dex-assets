@@ -1,13 +1,13 @@
 {
   "name": "Kefirswap Default",
-  "timestamp": "2022-06-19T14:02:59.767Z",
+  "timestamp": "2022-06-19T14:24:33.275Z",
   "version": {
     "major": 2,
     "minor": 1,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://cdn.statically.io/gh/KefirSwap/public-assets/master/KEFIR.png",
+  "logoURI": "https://cdn.statically.io/gh/KefirSwap/public-dex-assets/master/KEFIR.png",
   "keywords": [
     "kefirswap",
     "default"
@@ -20,7 +20,7 @@
         "symbol": "KEFIR",
         "name": "Kefir Gov Token",
         "decimals": 18,
-        "logoURI": "https://cdn.statically.io/gh/KefirSwap/public-assets/master/KEFIR.png"
+        "logoURI": "https://cdn.statically.io/gh/KefirSwap/public-dex-assets/master/KEFIR.png"
       },
       {
         "chainId": 2222,
