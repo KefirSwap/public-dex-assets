@@ -1,0 +1,16 @@
+{
+  "name": "Kefirswap Community",
+  "timestamp": "2022-06-19T14:07:18.126Z",
+  "version": {
+    "major": 2,
+    "minor": 5,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://cdn.statically.io/gh/KefirSwap/public-assets/master/KEFIR.png",
+  "keywords": [
+    "kefirswap",
+    "community"
+  ],
+  "tokens": []
+}
