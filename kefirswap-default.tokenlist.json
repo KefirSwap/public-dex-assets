@@ -1,6 +1,6 @@
 {
   "name": "Kefirswap Default",
-  "timestamp": "2022-06-20T09:53:16.966Z",
+  "timestamp": "2022-06-20T23:01:11.142Z",
   "version": {
     "major": 2,
     "minor": 1,
@@ -274,7 +274,7 @@
       "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
       "symbol": "USDC",
       "name": "Multichain Bridge USD Coin",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
     },
     {
