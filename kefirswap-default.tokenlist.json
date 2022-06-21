@@ -1,6 +1,6 @@
 {
   "name": "Kefirswap Default",
-  "timestamp": "2022-06-20T23:01:11.142Z",
+  "timestamp": "2022-06-21T00:38:48.463Z",
   "version": {
     "major": 2,
     "minor": 1,
@@ -255,19 +255,19 @@
     },
     {
       "chainId": 2222,
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "symbol": "ETH",
+      "name": "Multichain Bridge Ethereum",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+    },
+    {
+      "chainId": 2222,
       "address": "0xf5E547C683f5d72D6A463542d3e2cC13C5470D71",
       "symbol": "KEFIR",
       "name": "Kefir Gov Token",
       "decimals": 18,
       "logoURI": "https://cdn.statically.io/gh/KefirSwap/public-dex-assets/master/KEFIR.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-      "symbol": "Multichain ETH",
-      "name": "Multichain Bridge Ethereum",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
     },
     {
       "chainId": 2222,
