@@ -1,6 +1,6 @@
 {
   "name": "Kefirswap Default",
-  "timestamp": "2022-06-24T22:36:41.016Z",
+  "timestamp": "2022-06-24T23:02:01.945Z",
   "version": {
     "major": 2,
     "minor": 1,
@@ -255,6 +255,14 @@
     },
     {
       "chainId": 2222,
+      "address": "0x23367BEA9B6931690960d8c59f6e708630f24E58",
+      "symbol": "cUSDC",
+      "name": "Celer (cbridge) USD Coin",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 2222,
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
       "symbol": "ETH",
       "name": "Multichain Bridge Ethereum",
@@ -279,14 +287,6 @@
     },
     {
       "chainId": 2222,
-      "address": "0x23367BEA9B6931690960d8c59f6e708630f24E58",
-      "symbol": "USDC",
-      "name": "Celer (cbridge) USD Coin",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
-    },
-    {
-      "chainId": 2222,
       "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
       "symbol": "USDT",
       "name": "Multichain Bridge Tether USD",
@@ -295,7 +295,7 @@
     },
     {
       "chainId": 2222,
-      "address": "",
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
       "symbol": "WBTC",
       "name": "Multichain Bridge Wrapped Bitcoin",
       "decimals": 8,
@@ -315,7 +315,7 @@
       "symbol": "XKEFIR",
       "name": "Kefir Pit Token",
       "decimals": 18,
-      "logoURI": "https://cdn.statically.io/gh/KefirSwap/public-dex-assets/master/KEFIR.png"
+      "logoURI": "https://cdn.statically.io/gh/KefirSwap/public-dex-assets/master/XKEFIR.png"
     },
     {
       "chainId": 1666600000,
