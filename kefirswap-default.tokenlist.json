@@ -1,6 +1,6 @@
 {
   "name": "Kefirswap Default",
-  "timestamp": "2022-06-21T00:38:48.463Z",
+  "timestamp": "2022-06-24T22:36:41.016Z",
   "version": {
     "major": 2,
     "minor": 1,
@@ -279,11 +279,43 @@
     },
     {
       "chainId": 2222,
+      "address": "0x23367BEA9B6931690960d8c59f6e708630f24E58",
+      "symbol": "USDC",
+      "name": "Celer (cbridge) USD Coin",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "symbol": "USDT",
+      "name": "Multichain Bridge Tether USD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "",
+      "symbol": "WBTC",
+      "name": "Multichain Bridge Wrapped Bitcoin",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png"
+    },
+    {
+      "chainId": 2222,
       "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
       "symbol": "WKAVA",
       "name": "Wrapped Kava",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/9761/small/kava.jpg"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xA6Cb996250a65C3b2A472750DB2f1c7A300c199D",
+      "symbol": "XKEFIR",
+      "name": "Kefir Pit Token",
+      "decimals": 18,
+      "logoURI": "https://cdn.statically.io/gh/KefirSwap/public-dex-assets/master/KEFIR.png"
     },
     {
       "chainId": 1666600000,
